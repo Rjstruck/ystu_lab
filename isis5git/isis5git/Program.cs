@@ -7,7 +7,7 @@ namespace isis5git
         static void Main(string[] args)
         {
             int operation=0;
-            double firstNumber, secondNumber;
+            double firstNumber=0, secondNumber=0;
             while (true)
             {
                 Console.WriteLine("Введите число, чтобы начать операцию:\n1. Сложение\n2. Вычитание \n3. Умножение\n4. Деление\n");
@@ -40,6 +40,11 @@ namespace isis5git
                         firstNumber = Convert.ToDouble(Console.ReadLine());
                         Console.WriteLine("Введите второе число\n");
                         secondNumber = Convert.ToDouble(Console.ReadLine());
+                        if (secondNumber == 0)
+                        {
+                            Console.WriteLine("Ошибка! Деление на ноль запрещено!");
+                            break;
+                        }
                         Console.WriteLine("Результат деления чисел = " + (firstNumber / secondNumber) + "\n");
                         break;
                 }
