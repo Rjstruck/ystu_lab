@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace isis5git
 {
     class Program
@@ -10,7 +11,7 @@ namespace isis5git
             double firstNumber=0, secondNumber=0;
             while (true)
             {
-                Console.WriteLine("Введите число, чтобы начать операцию:\n1. Сложение\n2. Вычитание \n3. Умножение\n4. Деление\n");
+                Console.WriteLine("Введите число, чтобы начать операцию:\n1. Сложение\n2. Вычитание \n3. Умножение\n4. Деление\n5.Вовзведение в степень");
                 operation = Convert.ToInt32(Console.ReadLine());
                 switch (operation)
                 {
@@ -40,12 +41,15 @@ namespace isis5git
                         firstNumber = Convert.ToDouble(Console.ReadLine());
                         Console.WriteLine("Введите второе число\n");
                         secondNumber = Convert.ToDouble(Console.ReadLine());
-                        if (secondNumber == 0)
-                        {
-                            Console.WriteLine("Ошибка! Деление на ноль запрещено!");
-                            break;
-                        }
+
                         Console.WriteLine("Результат деления чисел = " + (firstNumber / secondNumber) + "\n");
+                        break;
+                    case (5):
+                        Console.WriteLine("Выбрана операция возведения в степень. Введите первое число:");
+                        firstNumber = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("Введите второе число\n");
+                        secondNumber = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("Результат возведения в степень = " + Math.Pow(firstNumber, secondNumber));
                         break;
                 }
                 operation = 0;
