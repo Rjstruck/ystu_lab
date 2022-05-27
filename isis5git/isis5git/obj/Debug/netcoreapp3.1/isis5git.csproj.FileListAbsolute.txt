@@ -1,0 +1,13 @@
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.exe
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.deps.json
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.runtimeconfig.json
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.runtimeconfig.dev.json
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.dll
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\bin\Debug\netcoreapp3.1\isis5git.pdb
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.csproj.AssemblyReference.cache
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.AssemblyInfoInputs.cache
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.AssemblyInfo.cs
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.csproj.CoreCompileInputs.cache
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.dll
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.pdb
+C:\Users\kkuzmin\Desktop\ex`,f\ISIS LR\ystu_lab\isis5git\isis5git\obj\Debug\netcoreapp3.1\isis5git.genruntimeconfig.cache
